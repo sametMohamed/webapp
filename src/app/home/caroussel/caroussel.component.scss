@@ -1,13 +1,90 @@
 
 #getsb{
+    position: relative;
+    bottom: -30px;
     width: 200px;
     height: 50px;
     font-size: 17pt;
-    border-radius: 13px;
+    border-style: none;
+    border-radius: 8px;
 }
-.txtt{
-    font-family: Century Gothic;
+
+#getsb2{
+    position: relative;
+    bottom: -85px;
+    width: 200px;
+    height: 50px;
+    font-size: 17pt;
+    border-style: none;
+    border-radius: 8px;
+}
+#getsb3{
+    position: relative;
+    bottom: 10px;
+    width: 200px;
+    height: 50px;
+    font-size: 17pt;
+    border-style: none;
+    border-radius: 8px;
+}
+
+.im1{
+    opacity: .3;
+}
+.im2{
+    opacity: .6;
+}
+.im3{
+    opacity: .6;
+}
+.title1{
+    color: white;
     position: absolute;
-    left :15px;
-    top :500px;
+    left :-130px;
+    top : -280px;
+    font-family: Century Gothic;
+    font-size: 45px;
+}
+.title2{
+    
+    color: white;
+    position: relative;
+    left:55px;
+    top : -290px;
+    font-family: Century Gothic;
+
+}
+.title3{
+    color: white;
+    position: relative;
+    left :-160px;
+    top : -300px;
+    font-family: Century Gothic;
+    font-size: 40px;
+}
+.title4{
+    
+    color: white;
+    position: relative;
+    left:-60px;
+    top : -300px;
+    font-family: Century Gothic;
+
+}
+.title5{
+    color: white;
+    position: relative;
+    left :-180px;
+    top : -260px;
+    font-family: Century Gothic;
+    font-size: 40px;
+}
+.title6{
+    
+    color: white;
+    position: relative;
+    left:50px;
+    top : -260px;
+    font-family: Century Gothic;
+
 }
