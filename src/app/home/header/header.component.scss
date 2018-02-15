@@ -1,0 +1,21 @@
+.aze{
+    height: 900px;
+    width: 250px;
+    background-color: aqua;
+    color: black;
+}
+.btn-typ{
+    
+    color: rgb(43,62,80);
+    background-color: transparent;
+    border-style: solid;
+    border-color: rgb(43, 62, 80);
+    border-width: 1px;
+    width: 80px;
+    height: 40px;
+}
+.btn-typ:hover{
+    background-color: rgb(70,160,70);
+    color: white;
+    border-style: none;
+}
